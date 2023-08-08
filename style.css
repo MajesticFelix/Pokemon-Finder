@@ -1,0 +1,28 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    font-family: "Courier New";
+}
+
+html, body{
+    height: 100%;
+}
+
+input{
+    background-color: #28242c;
+    border: none;
+    color: white;
+    font-size: large;
+}
+
+#submit{
+    background-color: #28242c;
+    color: white;
+    font-size: large;
+}
